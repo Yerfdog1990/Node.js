@@ -1,4 +1,4 @@
-const os = require('os');
+const os = require('Modules/builtin/os/os');
 
 //1. Info about the current user
 // Returns information about the currently effective user: username, uid, gid, shell, homedir
